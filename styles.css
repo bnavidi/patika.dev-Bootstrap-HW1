@@ -1,0 +1,51 @@
+.container-fluid {
+    background-color: #563440;
+    height: 50px;
+}
+.nav-link {
+    color: #9B9B97;
+}
+.nav-link:hover {
+    color: white;
+}
+.navbar {
+    padding: 0;
+}
+.navbar-brand {
+    color: #fb8500;
+}
+.main-page {
+    height: 100vh;
+    background-color: #4a4e69;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img {
+    width: 200px;
+    height: 400px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #fb8500;
+}
+.products-page {
+    background-color: #4a4e69;
+}
+.about-page {
+    background-color: #4a4e69;
+    height: 100vh;
+}
+.col-4 {
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+   margin-bottom: 10px;
+}
+.card {
+    width: 350px;
+}
+.text-color {
+    color: #9B9B97;
+}
